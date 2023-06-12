@@ -1,5 +1,7 @@
 # Mask Detection using Deep Learning
 
+Project creator: [Tianyi Liang](https://www.linkedin.com/in/tianyi-liang-at-bu/)   
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
